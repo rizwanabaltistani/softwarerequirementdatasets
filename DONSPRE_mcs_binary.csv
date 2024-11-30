@@ -1,0 +1,484 @@
+Project ID,Class,Requirement
+447,NFR," 'The application is available for the users all the time, provided mobile is in working sate and the internet connection is available.'"
+447,NFR, 'The application is accurate enough in counting the objects even in challenging lighting when the objects are partially obscured.'
+447,NFR," 'Backup is enabled for the application ,If a user upgrades to a new Android-powered device, application restores the user??s previous data when the application is logged in.'"
+447,NFR," 'The application is able to count objects quickly and a good accuracy, without any lags or delays.'"
+447,NFR," 'The application is reliable and able to count objects consistently, without crashes.'"
+447,NFR," 'The user's data is safeguarded by the program, which is secure.'"
+447,NFR, 'The program can handle a huge number of images and objects and is scalable.'
+447,NFR, 'The application is compatible with different types of smartphones and operating systems.'
+447,NFR," 'The application is easy to use, with a simple and intuitive interface that requires minimal training.'"
+447,NFR, 'The application has a simple and intuitive interface that allows the users to easily capture and upload images as well as submitting images for counting objects.'
+447,NFR," 'By adhering to accessibility guidelines, the program is usable by all users, including those with impairments.'"
+447,NFR," 'The scans are performed accurately and quickly under various conditions, including different lighting conditions and object sizes.'"
+447,NFR," 'The application does not drain the battery of the user's phone excessively, ensuring that it can be used for longer periods without the need for frequent charging.'"
+448,NFR, 'Application must be responsive' 
+448,NFR, 'If invalid attempt is made the user must be prompted to re-login. '
+448,NFR," 'If 3 invalid attempts are made, then block the user'"
+448,NFR," 'If user is not registered, then Admin must register user. '"
+448,NFR,  'If 3 invalid attempts are made block user.'
+448,NFR, 'User must be Registered.'
+448,NFR,  'Database must be available'
+448,NFR, 'Simplicity over enhanced and lucrative user interface to improve system response.'
+448,NFR," 'Usability over security, as only username password will be used to authenticate the user.'"
+448,NFR, 'Time duration to detect anomaly is directly proportional to length of the video. '
+449,NFR,   'Direct options are provided so that the user can easily perform the required operations like adding a descriptive diary'
+449,NFR,"  'The interactive interface of the application has been designed in a smart way that is helpful,easy in using and does not present the user with complex paths to follow'"
+449,NFR,  'The system will be a reliable piece of software by minimizing the coding errors that result in system crashes and runtime errors to providing the user with a full safe application. '
+449,NFR,   'The system ensures the exactness of the key words to accurately identify the current emotion of the user. '
+449,NFR,  'Technically this project is feasible as it provides desired features through all its components and processing their data.'
+449,NFR, 'All the included libraries and functions are supported by android and firebase'
+450,NFR,'Laser fencing is very accurate and can identify even the smallest border crossings. '
+450,NFR,'Laser fencing is a low maintenance option for border protection'
+450,NFR,'The accuracy of object detection is an important factor in determining the efficiency of a laser fencing system'
+450,NFR,'The response time of the system is another important factor in determining its efficiency'
+450,NFR,"'The cost-effectiveness of the system is an important consideration, as it determines the feasibility of deploying the system on a larger scale.'"
+450,NFR," 'laser fence systems may be designed to be more mobile, allowing for rapid deployment and repositioning as needed.'"
+451,NFR,'This application designed will be accessible around-the-clock.'
+451,NFR, 'The user may quickly perform on-device detection without the requirement for an online connection.'
+451,NFR,"'My model has an accuracy of 85% on test data and between 80 and 85% on validation data, making it quite dependable to predict the outcome.'"
+451,NFR,'It is the main issue we are thinking about. We'll protect our users' valuables and provide security for them.'
+452,NFR,'Our Systems should take seconds to run query and give answer.'
+452,NFR,'System can be used from all devices.'
+452,NFR,'Systems should display commands into 4-5 seconds to process natural commands.'
+452,NFR,'System shall provide access to user with all features of system safely.'
+452,NFR,'System shall secure data of user which they register to login and logout.'
+452,NFR,'System shall provide remote access to the user.'
+452,NFR,'System shall be available online 24/7 remote access.'
+452,NFR,'System shall convert English language phrases to commands fastly.'
+452,NFR,'System must be reliable for more than 2 years.'
+453,NFR,'The camera give the video streaming to VR headset basedmobilephone'
+453,NFR,'The module which is based on NRF24L01 has a data latency issue which communication create a delay between transmitter andreceiver signals.'
+453,NFR,"'The results of 2MP camera is very goodandtheone main feature that we have seen in this camera is that it work on Wi-Fi direct, without internet connection.'"
+453,NFR, 'The robot successfully finalized with proper functionality.'
+454,NFR,'The accuracy in cases of deletion is greater than 90%. '
+454,NFR,"'The quantity of words that users alter affects the product's accuracy when it comes to word addition and update, though.'"
+454,NFR,'We assess the performance depending on the various environments when measuring the performance. '
+454,NFR,'It takes 40-45 seconds to completely execute the task of deep voice generation'
+454,NFR,'The largest flexibility of this app is that the speech will be delivered in real-time using a real person's voice.'
+455,NFR, 'The pet Shop Management System provides the uses a quick response with very accurate information regarding the users etc.'
+455,NFR,'The software pet Shop Management System has a very user-friendly interface'
+455,NFR,'s the users will feel it is very easy to work on it.'
+455,NFR,'The transaction reports of the system can be retried as and when required.'
+455,NFR,"'There is no delay in the availability of any information, whatever is needed can be captured very quickly and easily.'"
+455,NFR, 'Reduce the cost of maintenance.'
+455,NFR,'The system provides physical security of data and provision for detection of fraud and abuse.'
+456,NFR,"'The goal of user interface design is to make it easy, efficient, and enjoyable for the users while working with the application.'"
+456,NFR,'Deep leaning is a machine learning approach and it depends on neural networks that produce a very good accuracy.'
+457,NFR,'The application was able to accurately recognize and translate a variety of sign language gestures .'
+457,NFR,'The performance of the application was further improved by using a Convolutional Neural Network (CNN) to extract features from the sign language videos.'
+457,NFR,'The system consider  usability and accessibility of sign language conversion applications for PSL to ensure inclusivity'
+457,NFR,"'The system provide User-friendly interfaces, intuitive interactions, and accessibility features, such as support for different input modes and output formats'"
+458,NFR,'It is user friendly application. '
+458,NFR,"'The manual identification is not so fast, more accurate and efficient for user ,to overcome those problem this application is design.'"
+458,NFR,"'The system provide a searchable encryption scheme with well-established and trusted underlying algorithms and primitives that will make our solution lightweight, highly efficient, more secure.'"
+458,NFR,'Our solution will be a practical solution to provide an application with accurate detection of Brain Tumors in MRI images'
+459,NFR,'The app was found to be accurate in its code generation with minimal errors.'
+459,NFR,'The app has shown an accuracy rate of 95% which is satisfactory for most users'
+459,NFR,'The app has been designed to be efficient in terms of speed and memory usage.'
+459,NFR,'The app has been tested on various flowchart sizes and has shown a fast processing speed with minimal memory usage'
+459,NFR,'The app can generate code for complex flowcharts within seconds.'
+459,NFR,'The app has been designed to be user-friendly and easy to use'
+459,NFR,'The app is suitable for both novice and experienced programmers'
+460,NFR,'The final product should be accurate in processing the uploaded video.'
+460,NFR,'Video processing should be completed within 60 seconds after successful upload.'
+460,NFR,'Results should be generated in under two minutes to keep the user engaged.'
+460,NFR,'There are no expected risks associated with running the SoS system or modifying the source code of the project.'
+460,NFR,'Https connection is used to ensure secure communication between application and server.'
+460,NFR,'The software application should be updated once a month to ensure smooth functioning and to remove bugs as reported by the users.'
+460,NFR,'The application should adapt to the hardware settings of the system.'
+460,NFR,"'The application should have the same interface and functionality on different platforms including windows, MacOS, android, and Linux.'"
+460,NFR,'The following permissions need to be granted in order to access all the features of the application ie Access to Camera and Receive data from the internet.'
+460,NFR,' SoS will have supportive help documentation ready.'
+461,NFR,'The application will run if the system has reliable internet connection.'
+461,NFR,'The application can run on both computers and mobile phones.'
+461,NFR,'The results are generated within minutes and do not take a lot of time thus making response time appropriate and quick for the users. '
+461,NFR,Response to user errors and undesirable situations have been taken care of to ensure that the application runs without any uncertainty. '
+461,NFR,'Performance of the app also depends on the kind of image of retina scan uploaded by the user; a clearer and proper image ensures better response time'
+461,NFR,"'RetinaDoc is a consultation app which is not a substitute to any kind of treatment thereby reducing loss, damage and harm resulting from the use of the product.' "
+461,NFR,'RetinaDoc does not have any kind of third-party security requirements yet as any type of user can use it without any additional privileges.'
+461,NFR,"'It has well designed and easy to use interface, it can be used by both experts and typical users. '"
+462,NFR,"'The system's architecture is designed to be modular, and each module is independent, which allows for easy integration and scalability. '"
+462,NFR,'the system can be easily deployed using a SaaS model'
+462,NFR,"'The system's NextJS framework provides built-in support for server-side rendering, code splitting, and optimized performance, which further enhances the system's  performance.'"
+462,NFR,"'For more in-depth and comprehensive forensic investigations, while still maintaining the tool's lightweight and user-friendly nature.'"
+463,NFR,"'We attain performance that is comparable to that of recent representative approaches, proving the correctness of our synthetic lips. "
+463,NFR,'our technique converges roughly 5 times faster and infers data about 500 times faster than the industry standard AD-NeRF
+464,NFR,'The plugin provides an efficient and reliable tool for organizations to combat potential security threats in their email communication.'
+464,NFR,'The decomposition of the Email Controls and Detection Engine into smaller modules and components allows for a more manageable and maintainable system.' 
+464,NFR,"'This architecture also permits multiple clients to access shared resources and services, facilitating data and information sharing across multiple devices and users.'"
+464,NFR,"'The system offer seamless integration with various email service providers, compatibility with Windows/Linux environments, and chromium-based browsers,'"
+465,NFR,'Security constraints for keeping user data confidential.'
+465,NFR,'The User Authentication service is a crucial part of this application that ensures only authorized users can access the protected routes within the application.'
+465,NFR,"'the application ensures that only authorized users can access sensitive data and features, protecting the user's privacy and maintaining the integrity of the application.'"
+465,NFR,"'The application ensures that users can easily upload, manage, and visualize their data, enabling them to make more informed decisions and improve the effectiveness of their work.'"
+465,NFR,"'The project utilizes RabbitMQ, a reliable and efficient message broker that enables the efficient routing and delivery of messages between different applications.'"
+465,NFR,'The user interface of our application allows for easy navigation and selection of preprocessing steps.'
+466,NFR,'The proposed scheme for app is to make the sound detection operations light weight and faster.'
+466,NFR,'The sound detection should be better and more accurate. '
+466,NFR,'The system should not allow any unauthorized user to view logs and history.'
+466,NFR,'Encryption of login credentials would be provided.'
+466,NFR,'The saved logs and history data would be protected.'
+466,NFR,'Authentication tokens would be used up to date. '
+466,NFR,'It would not malfunction or crash while running. '
+466,NFR,'The system would be available to user all the time.'
+467,NFR,'Performance requirement of the system is one of the main NFRs of smart campus system as the project is going to work on facial recognition system and number plate readings.
+467,NFR,The response rate of facial or number plate recognition must be less than 2 seconds which is the maximum boundary line of the response time.
+467,NFR,Safety is sub-set of the requirements which are directly related to ensuring safe operations and sometimes requirements on protection systems which are designed to protect against accidents. 
+467,NFR,The main controlling/admin system should place on a safe position to entertain only authorized bodies to avoid any harm by unauthorized bodies.
+467,NFR,Ensure the integrity of the system from accidental or malicious damage. 
+467,NFR,Make sure all data inside the system or its part will be protected against malware attacks or unauthorized access.
+467,NFR,The system should be resilient and resistive to outside factors affecting it`s functionality and other operations.
+467,NFR,The access permissions for system data may only be changed by the system??s data administrator
+467,NFR,"'Smart Campus system should adapt the new conditions but should not change it`s behaviour, system should work normally and according to given algorithms."
+467,NFR, 'Maintainability is often measured at code level using Cyclomatic complexity so the Smart
+467,NFR,"'The system should be reliable under all given conditions, and all the modules should work simultaneously without interfering each other`s performance.' "
+467,NFR,'No component should disturb the input or output of the other component or module.'
+467,NFR,'The Smart Campus system solution is for all educational and training institutes so it should work perfectly in different environments or institutes as it will execute the same results and will work the same in other institutes.'
+467,NFR, 'This can be measured in terms of ease of use. '
+467,NFR,'The admin side panel or application interface must be user friendly. '
+467,NFR,'There must be no complexity in the system usability.'
+467,NFR,"'The Smart Campus Project should be correct in terms of its functionality, calculations used internally, and the navigation should be correct. '"
+467,NFR,"'The system should be easy to test and find defects. If required, it should be easy to divide into different modules for testing.'"
+467,NFR,'Should be flexible enough to modify. Adaptable to other products with which it needs interaction.'
+467,NFR,'Should be easy to interface with other standard 3rd party components.'
+467,NFR,'Software reuse is a good cost-efficient and time-saving development method. '
+467,NFR,'Divide the application into different modules so that modules can be reused across the application.'
+467,NFR,'Interoperability of one system to another should be easy for the product to exchange data or services with other systems.'
+467,NFR,"'Different system modules should work on different operating system platforms, different databases, and protocol conditions.'"
+468,NFR,'The system should respond to user inputs in a timely manner. It should not experience any significant delay in mouse movement.' 
+468,NFR,'Test the system for response time and ensure that there is no noticeable delay in mouse movement.'
+468,NFR,'The system should not crash or freeze during use. It should be able to handle different types of user inputs.'
+468,NFR, 'Test the system for stability and ensure that it can handle different types of user inputs without crashing or freezing.'
+468,NFR, 'The system should be easy to use and understand.'
+468,NFR,'It should have a user-friendly interface.'
+468,NFR, 'Conduct user testing and ensure that users can easily use and navigate the system.'
+468,NFR,'The system should be easy to update and maintain. System should have well-organized and documented code.'
+468,NFR,'Review the code for maintainability and ensure that it is well-organized and documented. '
+468,NFR,'The system should not compromise user privacy or data. '
+468,NFR,'System should have appropriate security measures in place to protect against threats.'
+468,NFR,"'Camera module will only work, if user enters valid IP address.'"
+468,NFR, 'The system should be compatible with different operating systems and hardware configurations.' 
+468,NFR,'System should be able to work with different types of input devices.'
+468,NFR,"'Test the system on different operating systems and hardware configurations, and ensure that it can work with different types of input devices.'"
+469,NFR,'The design of the application will try to focus on simplicity as to make it as simple as possible for users to use.' 
+469,NFR,"'It helps ensure that the product meets the project requirements, is reliable, and performs as expected. '"
+469,NFR,'The Fake/Toxic Content Detection application provide high accuracy and realtime performance.' 
+470,NFR,'The product should be scaled according to the framework of the working of the organization'
+470,NFR,'Users should be able to use it at the same time without lagging due to multiple users. '
+470,NFR,??First Step?? should provide the safety of the information and ensure that no loss of data occurs as the data is very crucial and the loss is extremely damaging.'
+470,NFR, 'Safety of the data should be ensured by using a block-chain database which is a distributed ledger that assures the safety of the data in the database. '
+470,NFR,'This ensures that the data will always be available to the users with no risk of losing confidential data.'
+470,NFR,'The proposed solution must be capable of ensuring the security and privacy of the confidential data.'
+470,NFR,"'The adaptability of the proposed product to the internal system is required, following the rules, regulations and procedures already in effect; this would be ensured by structuring the system according to the organization??s structure.'"
+470,NFR,' The authority of viewing and editing specified information is according to the regulations of FIA.'
+470,NFR,'The main objective of our proposed solution is to provide integrity to the system as it deals with confidential data.'
+470,NFR,'The product is required to be according to the legal laws followed by the organizations in the country.' 
+471,NFR,'The image should not take more than 100 seconds to generate. '
+471,NFR,"'The processing of the provided request should be seamless and quick, so that the user receives a response in a matter of seconds.'"
+471,NFR,"'The system should function properly, Even if there are 1000 people on the website making a query or utilizing a service from the given services, the system's response should be seamless and not hindered by heavy traffic. '"
+471,NFR,"'There should be a backup in case of any server-side failure, allowing the services to continue operating.'"
+471,NFR,"'There must be alternative resources accessible for the damage so that it can be replaced regardless of the form of failure, such as disc damage or a cut off power supply.'"
+471,NFR,Provision of OAuth token should be encrypted.'
+471,NFR,'Communication protocol should be secure like https to have secure communication over the network. '
+471,NFR,"'System should not store any personal information of the user, like location, name etc.'"
+471,NFR,'OAuth should expire in 120 minutes.'
+471,NFR,'The system should be available all the time to users.'
+471,NFR,'The interface of the system must make sense to the average user and should require minimal explanation for how to use it.'
+471,NFR,'The system should incorporate all the necessary characteristics so it can be wrapped around by other apps and scale in size. '
+471,NFR,"'The system should be maintainable. For development, it should be easy to add code to the existing system, and it should be easy to upgrade for new features and new technologies from time to time. "
+471,NFR,'The system should be adaptable to other products with which it needs interaction. '
+471,NFR,'Should be easy to interface with other standard 3rd party components. '
+472,NFR,"'A key element of RAS is the storage of data in a real-time database, which lets the administrator to easily access and handle the data gathered from the victim's device.'"
+472,NFR,"'To protect the real-time database from unauthorised access or cyberattacks, it is crucial to incorporate strong security measures and access restrictions. '"
+472,NFR,"'To avoid any potential misuse or invasion of privacy, it is crucial to stress that the preservation and use of such information should be done in compliance with ethical and legal standards.'"
+472,NFR, 'Flexibility is important in application architecture as business needs can change rapidly.'
+472,NFR,"'The user interface is to be designed for being user-friendly and intuitive, for making it easy to navigate the app and accessing features.'"
+472,NFR,'Uses secure encryption protocols to transmit data between the target device and the user's device.'
+473,NFR,'The load time for interface screens shall take no longer than two seconds.'
+473,NFR,'The device web application shall be supported by all browser types.'
+473,NFR, 'The use of the SLS has no harms; nor does it have any possibility of loss or damage to the data of any external device connected to the same Wi-Fi router.'
+473,NFR,'Access to the SLS will be protected by a user log in screen that requires a username and password.'
+473,NFR,' 'The system will follow the customer privacy policy strictly.'
+473,NFR,'The system shall be able to work in a normal way after restarting'
+473,NFR,'The experts will need a day of training to completely understand the system.'
+473,NFR, 'The graphical user interface of the SLS is to be designed with usability in such a manner that is both visually appealing and easy for the user .'
+447,FR,'The system is able to log out when user clicks the logout icon.'
+447,FR,'The system is able to provide user with ??Open Camera? option.'
+447,FR,'The system is able to open mobile phone??s camera when user select associated option.'
+447,FR,'System is able to take input image of stock provided by the user.'
+447,FR,'System is able to scan the uploaded image for stock count. '
+447,FR,'The system is able to recognize and count objects in the image.'
+447,FR,'System is able to produce results on the screen for the users.'
+447,FR,'System is able to produce list of scans on the homepage for the users.'
+447,FR,'System allows the user to take screenshots of images and results as well as save in the mobile phone??s gallery.' 
+447,FR,'The system is able to create a user account. '
+447,FR,'The system is able to read and process the credentials provided by the users. '
+447,FR,The system is able to provide users with the required credentialsl platform'
+448,FR,"'The User and Admin if registered must be able to enter their name, id along with their password and authenticates themselves to enter the system.'"
+448,FR,"'The User and Admin if logged into the system must be able to logout of the once, they have performed the activities. '"
+448,FR,'The User and Admin if logged in must be able to save logs manually related to anomaly detected in videos. '
+448,FR,'The User and Admin if logged in must be able to view logs related to videos in the database. '
+448,FR,'The User and Admin if logged in must be able to view logs related to user in the database. '
+448,FR,'The User and Admin if logged in must be able to set their profile picture by selecting in picture in JPG or PNG format. '
+448,FR,'The User and Admin if logged must be able to change password as per requirement.'
+448,FR,'The password can be combination of alphabets numbers and special characters. '
+448,FR,'The User and Admin if not blocked by system must be able to recover and then change password by answering secret question.'
+448,FR,"'The User and Admin if logged into the system must be able to set a secret question and its answer as a contingency , In case they forget password. '"
+448,FR,"'The User and Admin if authorized after login must be able to select video clip for anomaly detection ,the video must be in mp4 format. '"
+448,FR,'The User and Admin if logged in must be able to view the trends and graphs pertaining to user activities and types of anomalies occuring by day and time. '
+448,FR,'The must be able to automatically save the log of anomaly detected in a video feed. '
+448,FR,'The Admin must be able to create any new user of the system. '
+448,FR,"'Trend analysis is one of the core functionality, enabling users to identify patterns and anticipate potential anomalies.'"
+449,FR,'A daily description box appears where a user can write description about his daily experiences'
+449,FR,'On the basis of the key words a certain emotion is picked from the category of emotions. '
+449,FR,"'The Recommendations feature is one of the cores of the system after the identification of user emotional a recommender has to play its part in suggesting motivational thoughts, tips, exercises and meditation'"
+449,FR,'Suggestions feature links directly to some content saved in database but is accessed online.'
+449,FR,"'Report Log feature provides two different options, one is for daily report and one is for the question round report'"
+449,FR,'Progress Report feature does the proper monitoring for the progress of the user??s mental health. '
+449,FR,"'Chat Box feature helps the user to directly communicate with the therapist, if needed.'"
+449,FR,'Timer feature provides a counter clock of 5 minutes in which a user has to perform any exercise from the recommended ones. '
+449,FR,'Question Round feature generates a question form This is a descriptive feedback where the use responds back to the system by answering the different descriptive questions'
+449,FR,'Referring to consult a Professional Human Therapist feature will work in case if the user didn??t find progress in his mental health.'
+449,FR,'A user can share reports with a therapist for a better consultation.'
+449,FR,'Human Therapist feature provides some already embedded professional on the application so that the user can directly consult with him/her and share their case.'
+449,FR,'User??s Availability feature shows the available user to the therapist.'
+449,FR,'System shows text boxes for enter information.'
+450,FR,'The sensors are the first line of defense in an IDS for physical intruders.'
+450,FR,'The analyzers are responsible for analyzing the data collected by the sensors and identifying potential security threats'
+450,FR,"'The control panel, also known as the console, is the user interface for the IDS.'"
+450,FR,'The response component is responsible for taking action when a security threat is detected'
+450,FR,"'Laser fencing can provide continuous monitoring and detecting capabilities,'"
+451,FR,"'When the user opens the application, the welcome screen will be displayed'"
+451,FR,"'The main page of the app will be the home page, where the user will see two main options (upload image using camera or using gallery) '"
+451,FR,'When the user click on the home remedies it will be routed to the home remedies page'
+451,FR,'When the user clicks on the about diseases it will be routed to about diseases'
+451,FR,'User will be able to upload image via camera of smartphone'
+451,FR,'User will be able to upload image from Gallery of smartphone'
+451,FR,'User will be able to Pick/ select image from the gallery '
+452,FR,'Authentication feature allows user to login system by using ema password.'
+452,FR,"'This feature works on the system's defined queries i.e., user English language phrases and return them a command for that specific query.'"
+452,FR,'Every input input and the returned output of the system will be remotely accessed at the backend server of system.'
+452,FR,' History feature allows the user to maintain their history of all the searches they made and are executed on the System.'
+452,FR,'Console interaction feature allows the user to have a terminal-based interaction the console screen with the system.'
+452,FR,'System shall allow user to login by enter email and password.'
+452,FR,'System shall allow user to logout.'
+452,FR,'System shall allow user to type English language phrases.'
+452,FR,'System shall provide list recommended commands to help user.'
+452,FR,'System shall allow user to be able to remotely access the website application server.'
+452,FR,'System shall allow user to access all his/her typed queries.'
+452,FR,'System shall provide console screen to user where they get result of query they typed.'
+452,FR,'Systems should change screens will require sometime to load.'
+453,FR,"'In this proposed system, we have minimized the delay of the robot'"
+453,FR,'The robot starts working as soon as the command is receivedfromthe application'
+453,FR,'As the camera of robot require 360-degree movement sothewe can control the rotation of camera'
+453,FR,"'The conveyor belt movement require DC gear motor, as themotor speed decreases torque increases.'"
+453,FR,"'For automatic switching, relays are used.'"
+454,FR,"'One of the early stages of our product is speech recognition, and the major objective here is to transform the audio to text. '"
+454,FR,' we are generating transcripts using Kaldi's artificial speech and acoustic model.'
+454,FR,"'Users can edit this text in any way (add, remove, or update), and after a few steps, the changes will be audible in the user's audio'"
+454,FR,'. The system's primary responsibility after that is to translate the text back into speech such that it has the effect of a revised transcript'
+454,FR,"'There is the audio player, that the user can run to listen to their edits on the original audio.'"
+454,FR,'User can also download the audio from the system.'
+454,FR,'Voice synthesis allows for the preservation of an actor's voice while also translating it into several languages. '
+455,FR,'The mobile application should allow the center staff to manage the dogs in their care.'
+455,FR,"'The application should allow staff members to schedule appointments for the dogs, including medical appointments, training sessions, and grooming'"
+455,FR,'The application should provide inventory management features that allow staff members to manage the supplies and equipment'
+455,FR,'The application should have reporting and analytics feature that provides insights into the center's operations.'
+455,FR,'The applicant should be able to send alerts and notifications to staff members '
+455,FR,'The application should have communication features that allow staff members to communicate with each other'
+455,FR,'The application should also provide features that allow staff members to manage the adoption process for the dogs'
+456,FR,'The study focuses on image processing concepts combined with deep learning methods'
+456,FR,'Our machine learning model will use algorithms to meet our application??s needs.'
+456,FR,"'The CXRs are preprocessed to enhance their quality and reduce noise, as discussed earlier.'"
+456,FR,"'It is a basic software component that is used by database management systems to search, read, and retrieve data from a database. '"
+456,FR,'A database server is a computer program that provides database services to other computer programs or terminals as defined by the client??server model.'
+456,FR,'Once the CXR image is acquired it will be used as input to the deep learning model for TB detection '
+457,FR,'The SLR application captures video data of sign language gestures using a camera '
+457,FR,'TensorFlow library will be used as object detection API for the conversion of sign language into text.'
+457,FR,"'Database Engine  is a basic software component that is used by database management systems to search, read, and retrieve data from a database.'"
+457,FR,'The acquired video data is preprocessed to enhance its quality and reduce noise.'
+457,FR,'Relevant features or characteristics of the sign language gestures are extracted from the preprocessed video data.'
+457,FR,"'Once the features are extracted, they are used to recognize the sign language gestures.'"
+457,FR,"'After the sign language gestures are recognized, the next step is to convert them into text or speech output.'"
+457,FR,'The system will display the recognized sign language gestures in a graphical format.'
+457,FR,'SLR applications may also include feedback mechanisms that allow users.'
+458,FR,'User can request admin for account creation. '
+458,FR,'User can then upload MRI files which will be processed by the trained model. '
+458,FR,'User (doctor) will then review the result and add their remarks to it. '
+458,FR,'User (patient) will be able to download or check their respective results. '
+458,FR,'Registration request will be processed and credentials will be stored in database'
+458,FR,'Login request will be verified and response will be generated accordingly. '
+458,FR,'MRI images will be processed and evaluated under the trained model.'
+458,FR,'Results will be stored in database and displayed upon request after authenticating and verifying the user.'
+459,FR,"'It consists of various graphical components such as menus, buttons, and text boxes that allow the user to input the flowchart and receive the generated C++ code.'"
+459,FR,'The flowchart editor is a key component of the app that allows the user to create a flowchart diagram'
+459,FR,'The flowchart renderer is the back-end component of the app that takes the flowchart diagram created by the user'
+459,FR,' The code generation engine is the component of the app that takes the output of the flowchart renderer'
+459,FR,'The output panel is the component of the app that displays the generated C++ code to the user'
+459,FR,'The settings panel is the component of the app that allows the user to configure various settings'
+459,FR,'The help and support component of the app provides assistance and guidance to the user in using the app'
+460,FR,'A user should be able to open the web application through browsers'
+460,FR,'User will upload a video of maximum 20MBs from file system.'
+460,FR,'User will record a video of maximum 20MBs with camera having specifications.'
+460,FR,'Video will be sent to the server first for pre-processing.'
+460,FR,"'Face encoder will use face detector model, dlib library and landmarks to detect the lips from face and then crops that portion of lips to create a sequence of frames.'"
+460,FR,'ROI Generator will use the frames produced by face encoder to generate the ROI video'
+460,FR,'Visual speech recognition will be done by model and will produce text.'
+460,FR,'The text generated by model is converted to audio using python library.'
+460,FR,'Audible audio generated by prediction model is displayed on user??s screen along with text.'
+461,FR,"'User Registration and Login System allows users to create an account, log in, and access the application's features.'"
+461,FR,"'The web application should enable users to upload retinal images in various formats, such as JPEG or PNG.'"
+461,FR,'To detect indications of diabetic retinopathy in retinal images'
+461,FR,'The application should provide a diagnosis (Diseased/Non-Diseased)'
+461,FR,'A database should be created to store users' credentials.'
+461,FR,'The web application should be built using a suitable web application framework Django.'
+461,FR,'The web application should have a unique and recognizable brand identity that reflects the purpose of the application'
+462,FR,"'The application will give the user an array of tools that will allow for different types of data acquisition depending on the choice e.g. call logs, SMS messages, hardware details etc. '"
+462,FR,'. The application will also give the functionality to the user to decode application data of certain applications which are to be specified later. '
+462,FR,'The PC will be used to run the Android Forensics Suite and the Android Device will be connected to this PC using a USB cable'
+462,FR,'Our system takes all the data from the Android device and stores it as an image. '
+462,FR,'The user is able to connect and extract information from a connected and unlocked Android Device and view information as well as perform operations of '
+462,FR,"'The user is able to browse files on the Android System, allowing him to download required files. '"
+462,FR,'The user is able to capture the screen of the Android Phone. '
+462,FR,'The user is able to get ADB shell access and run commands on the target device. '
+462,FR,'The user is able to access power options like Fastboot and Samsung Odin Mode. '
+462,FR,"'The user is able to see, select and copy system messages generated by processes. '"
+462,FR,"'The user is able to see, select and copy ADB streams in the current connection. '"
+463,FR,"'An interactive, visual interface for users to communicate with the chatbot. '"
+463,FR,'The ability to understand and respond to audio-based input from users'
+463,FR,'The ability to talk back and show emotions in response to user input or as part of a pre-defined conversation flow'
+463,FR,'The ability to maintain a conversation history with each user and provide personalized responses based on the user's past interactions. '
+463,FR,'Chat window
+463,FR,'Chatbot engine
+463,FR,"'Stores information about past interactions with users, including the conversation history and any personalization data. '"
+463,FR,'The chatbot may need to integrate with external APIs or services to access additional data or functionality.'
+464,FR,"'Users can authenticate their email accounts, fetch emails, and send them for analysis through the plugin. '"
+464,FR,"'The Email Controls and Detection Engine provides a comprehensive analysis of each email component, identifying potential spam messages and generating a detailed PDF report outlining its findings. T'"
+464,FR,"'Utilizing AI/ML techniques and data sets, the Email Controls and Detection Engine classifies and scores the emails based on their potential spamming nature. '"
+464,FR,'Plugin component would be responsible for analyzing incoming emails for potential threats and sending requests to the backend server for further processing.'
+464,FR,'Gmail SMTP component would handle the incoming and outgoing requests to google server for emails.'
+464,FR,"'Backend Server component would be responsible for analyzing, scanning, and generating reports of the emails.'"
+465,FR,' Frontend is responsible for handling input CSV format file and displaying output to user. '
+465,FR,"'The backend of our application is built using Node.js and Express.js, which provides server-side logic for handling user requests'"
+465,FR,'RabbitMQ is used to handle communication between Node.js Server and NLP engine'
+465,FR,'The client is a web browser running on user device. User accesses the application through URL.'
+465,FR,"'The server receives the file, stores on server, uses nltk libraries for applying preprocessing techniques.'"
+465,FR,'User then clicks one of buttons for applying preprocessing techniques.'
+465,FR,'Server apply those techniques and update it in database MongoDB using Django (back-end server).'
+465,FR,'Server stores preprocessed data in a database (MongoDB).'
+465,FR,'On proceeding to next step code is generated for changes we have made to CSV and user can download .py format file to local machines.'
+465,FR,' Server then apply steps on CSV File on clicking buttons and client can view all changes applied to CSV file and then download the updated file.'
+466,FR,'The system displays the login screen to the user'
+466,FR,'The system displays the Register screen to the user.'
+466,FR,'The app receives the authentication token and displays the main screen'
+466,FR,'The system encrypts the password and send username and encrypted password to server.'
+466,FR,"'The system asks for the time of reminder trigger, reminder Description, and Alarm settings'"
+466,FR,"'The user selects the time, enters the Reminder description and configure the alarm settings.'"
+466,FR,'The App respond to the interrupt and display notifications and trigger the alarm'
+466,FR,'The User selects the view reminder option'
+466,FR,'The App displays all set reminders'
+466,FR,' The user clicks on delete and update reminders'
+466,FR,'The system would store the sound as a mono sound channel in wav files of 3-5 sec duration.'
+466,FR,"'If the communication with the server failed, then display the no response dialog '"
+466,FR,'The App then displays classified sounds to the user through LED lights.'
+466,FR,"'If the communication with the server failed, then display the no response dialog' "
+467,FR,"'After the face is recognized, the system will check if the person is staff, faculty or a student.'"
+467,FR,"'The system will detect if student is sleeping or not, in case of sleeping the system will mark him/her absent during that specific time.'"
+467,FR,'The system will be able to detect whether a student in smoking or not. If smoking the system will generate a warning to notify the authorities and will impose a fine on the student.'
+467,FR,'The system will be able to analyze some activities of crowd. '
+467,FR,'The system will be able to count number of faces detected in a camera footage. '
+467,FR,'Face detected in specific camera dedicated to restricted area will be marked as violation of rule'
+467,FR,'The system will track where the crowd is located by keeping the record of how many people are in specific area'
+467,FR,'The user interface encircles the face with red circle.'
+467,FR,"'If the records are not match, server sends ??Not Matched?'"
+467,FR,'User interface encircles the face and labels the face with the output name.'
+467,FR,"'If the records match, the output is sent to the user interface.'"
+467,FR,'This indicates that the person is not registered in the database.'
+467,FR,'The detected face is matched with the database.'
+467,FR,"'If there is a face, server detects it.'"
+467,FR,'Server continuously monitors the video and detects the faces'
+467,FR,'The camera continuously records the video and sends to the server.'
+468,FR,'will detect your hands and on the basis of hand gestures it will perform all the mouse functionalities'
+468,FR,' A user should be able to download the desktop application through either an application store or similar service on the system. '
+468,FR,"' Given that a user opens the application, then the first page that is shown should be to select the webcam option. '"
+468,FR,'First requirement is that user should position himself in front of webcam so that it should be clearly detected by camera then will raise his hand to perform cursor functions. '
+468,FR,'Single-shot detector model is used for detecting and recognizing a hand or palm in real time. '
+468,FR,'As soon as the user shows up his hand in the camera the application detects it & draws a bounding box around the hand. '
+468,FR,"'If all the fingers are up with tip Id??=??4, 8, 12, 16, and 20, the computer is made to not perform any mouse events in the screen,'"
+468,FR,'If the distance between index fingertip with id=8 and the middle finger with id=12 is 0 with all other fingers closed.'
+468,FR,'If both the index finger with tip Id??=??8 and the middle finger with tip Id??=??12 are up and the distance between the two fingers tips (id=8 and id=12) is zero and if the two fingers are moved down the page'
+468,FR,"' the computer is made to perform the scroll up mouse function,'"
+469,FR,'The application design is built on the idea to provide a virtual colored overlay on mobile devices replicating physical ones already in existence'
+469,FR,'The system detect fake content in text or audio. ' 
+469,FR,'The system detect any toxic content in text and audio.'
+469,FR,"'Voice Cloning to create a clone of an individual??s specific, unique voice.'"
+469,FR,"'Main Screen opens and contains a logo, a Navbar and a ??NEXT?? button that leads to next Page/Screen. '"
+469,FR,"'Three options are provided here which are the Main features of our App i.e Fake Content Detection ,Toxic Content Detection,Voice Cloning '"
+469,FR,'Input as Text-where user will able to give input as text.'
+469,FR,'User will be able to provide the recording as input '
+469,FR,'User will be asked for the permission to record voice first'
+469,FR,"' On First Selecting the Option ??Voice?, the recording will start. Pressing it again will stop the recording and the text will appear on the TextView'"
+469,FR,'User will be able to upload Text File as input'
+469,FR,"'Once the text appears on the TextView, rest of the steps will be followed as in case-1. '"
+469,FR,'Text from the .txt file will appear on the TextView as soon as you select the file.'
+469,FR,"'Once the Permission is Granted, clicking on ??Upload? Button will lead to the storage files where user will be able to select .txt file.'"
+469,FR,"'User has to provide either of two inputs i.e Audio Recording and Text to be Cloned , Audio File and Text to be Cloned '"
+469,FR,"'If Recording is Empty,If Text is not Entered, a pop-up will be generated '"
+469,FR,"'. On Selecting Option, ??FAKE CONTENT DETECTION?, user will be directed to Screen'"
+470,FR,'The system first checks whether the user is one that is allowed to use the system and then it checks which class of users it belongs to'
+470,FR,'The PO initiates the crime case into the system and assigns it to a FR and a FI.'
+470,FR,'The list of employees containing stationed FRs and FIs can be edited and updated by the PO.'
+470,FR,'The images taken by FR are fed into the system and the system automatically generates a list of evidences present in the photos and stores the list'
+470,FR,'Details of the evidences investigated by the FIs are entered into the system by the FIs'
+470,FR,'The CoC is maintained by the PO that hands over the evidence to the holder and feeds the credentials of the evidence holder in the case details.'
+470,FR,'There are explanations of the user followed by the interactions the user(s) shall be able to make with the software.'
+470,FR,'Authentication and Authorization of User is the first function of the system as it will load.'
+470,FR,' Entry of crime cases using FIR No. is the functionality included in the police station??s interface'
+470,FR,'Update List of Employees function is visible to the police stations to provide the system with the list of the FRs and FIs stationed there. '
+470,FR,"'Maintenance of CoC (Chain of Custody) function involves the secure storage of information of evidence holders such as CNIC, name and signatures etc'"
+470,FR,'Automated Evidence storage in the system function involves the automation of extraction of information from images taken at the crime scene'
+470,FR,'Entry of forensic evidence information function involves the secure storage of information of evidence such as DNA tests and fingerprints from the crime scene.'
+470,FR,'FI??s interface should be displayed'
+470,FR,"'If searched case number does not exist, Display ??Not Found??'"
+470,FR,"'When clicked, the user should be able to add information'"
+470,FR,"'On clicking OK button, the information should be stored on the block-chain'"
+470,FR,'The information is to be displayed to all users'
+471,FR,'The system will provide an interface where users will be able to draw their sketches.'
+471,FR,'The system should generate a variation of photorealistic images from the provided sketch.'
+471,FR,'The extended scope enlists all the FRs that if time permits will also be added into the project'
+471,FR,'Users can resubmit the generated image with a label to change the style or orientation of the image to their liking.'
+471,FR,'Users can upscale the generated image.'
+471,FR,'Users can generate an extended image which will add some more surroundings to the generated image.'
+471,FR,'Developers can embed our engine in their applications using our SDK which will be in the form of a package or module. '
+471,FR,'Users can also generate an image without creating a sketch by just a label or voice input which will be first converted into a label. '
+472,FR,'Login credentials are valid Dashboard will display to user '
+472,FR,'Authenticated user is redirected to the main interface. '
+472,FR,"' If user credentials are invalid, the error message is displayed on the screen. '"
+472,FR,'Generated payload can be transferred to any victim to make it vulnerable.'
+472,FR,'Attacker should be able to access the network remotely through deployed trojan.'
+472,FR,'Using the payload generated through RAS the attacker can exploit the entire network to monitor the network traffic and control it to modify the packets moving through it.'
+472,FR,'Attacker takes control of the network and can exploit any device connected to the network.'
+472,FR,'The main purpose of using RAS is to make endusers vulnerable and extract information out of their devices in order to explicitly use it for own purpose or to spy to eliminate threats'
+472,FR,'User becomes vulnerable and all the data of user is easily accessible to the attacker and attacker can monitor the user??s every activity.'
+472,FR,'The app enables users to view and send messages from the target device without physical access to the device.'
+472,FR,'Users can remotely view and manage the contact list of the target device.'
+472,FR," The app supports insertion point encoding, allowing users to obfuscate their payloads to avoid detection.'"
+472,FR,Run multiple patches on a single device  Users can run multiple patches on a single device to perform various operations simultaneously.'
+472,FR,'Transmit data securely from and to the device over the network
+472,FR,' Notifications hidden from the phone??s notification bar
+472,FR,'Capable of controlling program configurations
+472,FR,'Name of the package can be changed to anything
+473,FR,'the system Check and balance of traffic.'
+473,FR,'To read the tag and track vehicle through electromagnetic waves and send information to ESP32 in Arduino IDE'
+473,FR,'he system initializes the RFID reader by setting up the appropriate pins and baud rate'
+473,FR,'Then Arduino IDE waits for the reader to detect the RFID tag.'
+473,FR,'the readers are used to storing IDs of RFID tags then they help manage the login and logout of users from SLS through real time firebase database.'
+473,FR,"'In the system that is implemented, the firebase database is being used as Backend and helps in retrieving and storing the data.'"
+473,FR, 'Reader reads the tag through RF communication protocol and sends the information to ESP32 interface'
+473,FR,'ESP32 checks through the database connected to it and available to the administrator'
+473,FR,"'The database starts searching for the required information, whether it matches with the sent information or not.'"
+473,FR,'The system shall be able to increment the Vehicle Count once a vehicle enters the designated area through the toll plaza '
+473,FR,'The system shall be able to read the information on the tag through the reader using RF communication.'
+473,FR, 'The system shall be able to lift the barricade (servomotor) once an authorized vehicle tries to enter the designated area.'
+473,FR, 'The system shall not allow any unauthorized vehicle to enter the designated area.'
